@@ -1,8 +1,8 @@
 # Color-flipper project
 
-[color-flipper](https://aliaksei-siniauski.github.io/collor-flipper/)
+[color-flipper](https://aliaksei-siniauski.github.io/color-flipper/)
 
-![color-flipper](https://snipboard.io/nsyHYo.jpg)
+![color-flipper](https://snipboard.io/DorLbV.jpg)
 
 ## Project Description:
 
