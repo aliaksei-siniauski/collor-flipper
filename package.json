@@ -1,0 +1,14 @@
+{
+  "name": "02-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch src/scss/main.scss src/main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chroma-js": "^2.4.2"
+  }
+}
