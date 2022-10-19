@@ -1,8 +1,8 @@
-# Online-zoo project
+# Color-flipper project
 
-[collor-flipper](https://aliaksei-siniauski.github.io/collor-flipper/)
+[color-flipper](https://aliaksei-siniauski.github.io/collor-flipper/)
 
-![collor-flipper](https://snipboard.io/nsyHYo.jpg)
+![color-flipper](https://snipboard.io/nsyHYo.jpg)
 
 ## Project Description:
 
@@ -18,11 +18,10 @@ Color flipper app is a mini javascript project in which you will change the back
 
 ## Features:
 
--
--
--
--
--
+- randomly generated hex color
+- displayed color values
+- saving selected colors when refreshing the page
+- sending selected colors as URL
 
 ## Techs:
 
