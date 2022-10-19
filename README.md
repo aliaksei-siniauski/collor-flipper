@@ -20,6 +20,7 @@ Color flipper app is a mini javascript project in which you will change the back
 
 - randomly generated hex color
 - displayed color values
+- using space to refresh page
 - saving selected colors when refreshing the page
 - sending selected colors as URL
 
